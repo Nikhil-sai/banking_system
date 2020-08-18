@@ -1,2 +1,2 @@
-# banking_system
-banking system scenario is implemented in C#,and MySQL Database is used
+# Banking-System
+A banking system project written in C#.net
